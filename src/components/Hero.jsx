@@ -3,7 +3,7 @@ import { ArrowRight, Download, Github, Linkedin, Mail } from 'lucide-react'
 export default function Hero() {
   const hero = {
     name: "Susanti Afrilia",
-    title: "Information Systems Student | Data Analyst | Risk Management ",
+    title: "Information Systems Student | Data Analyst | Risk Management",
     description:
       "Final-year Information Systems student at Telkom University passionate about Data Analytics, Information Security, Business Process Improvement, and UI/UX Design.",
     github: "https://github.com/susanttii",
