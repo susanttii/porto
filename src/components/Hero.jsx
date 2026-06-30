@@ -7,7 +7,7 @@ export default function Hero() {
     description:
       "Final-year Information Systems student at Telkom University passionate about Data Analytics, Information Security, Business Process Improvement, and UI/UX Design.",
     github: "https://github.com/susanttii",
-    linkedin: "https://bit.ly/4rdj0vy",
+    linkedin: "www.linkedin.com/in/susanti-afrilia-a36174277",
     email: "susantiafrilia18@gmail.com"
   }
 
