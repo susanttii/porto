@@ -11,7 +11,7 @@ export default function Contact() {
   const contact = {
     email: "susantiafrilia18@gmail.com",
     github: "https://github.com/susanttii",
-    linkedin: "www.linkedin.com/in/susanti-afrilia-a36174277"
+    linkedin: "https://www.linkedin.com/in/susanti-afrilia-a36174277/"
   }
 
   const handleSubmit = (e) => {
