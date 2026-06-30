@@ -1,4 +1,4 @@
-import { Mail, Phone, MapPin, Send, Github, Linkedin } from 'lucide-react'
+import { Mail, MapPin, Send, Github, Linkedin } from 'lucide-react'
 import { useState } from 'react'
 
 export default function Contact() {
@@ -10,9 +10,8 @@ export default function Contact() {
 
   const contact = {
     email: "susantiafrilia18@gmail.com",
-    phone: "+62 823 8802 0013",
     github: "https://github.com/susanttii",
-    linkedin: "https://bit.ly/4rdj0vy"
+    linkedin: "www.linkedin.com/in/susanti-afrilia-a36174277"
   }
 
   const handleSubmit = (e) => {
