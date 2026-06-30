@@ -61,16 +61,6 @@ export default function Contact() {
 
               <div className="flex items-start gap-4">
                 <div className="flex-shrink-0 w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center text-primary-600">
-                  <Phone size={24} />
-                </div>
-                <div>
-                  <h4 className="font-semibold text-gray-900 mb-1">Phone</h4>
-                  <p className="text-gray-600">{contact.phone}</p>
-                </div>
-              </div>
-
-              <div className="flex items-start gap-4">
-                <div className="flex-shrink-0 w-12 h-12 bg-primary-100 rounded-lg flex items-center justify-center text-primary-600">
                   <Github size={24} />
                 </div>
                 <div>
